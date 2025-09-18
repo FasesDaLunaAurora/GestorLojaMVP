@@ -52,7 +52,7 @@ E fica no valor de R$ 129,90."
 
 ## 🚀 Tecnologias Utilizadas
 
-- Backend: Python + FastAPI
+- Backend: Python + Node.js
 - Frontend: React
 - Banco de Dados: PostgreSQL
 - Servidor ASGI: Uvicorn
